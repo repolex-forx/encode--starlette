@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/encode/starlette/commit/96d5023c55b29224edb8d684868c49f681d079a9",
       "git:hexsha": "96d5023c55b29224edb8d684868c49f681d079a9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/encode/starlette/commit/5a9fe3f048664eef8f958581c6b7be8f7abf71cc",
